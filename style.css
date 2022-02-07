@@ -1,15 +1,6 @@
-#mycarousel .carousel-caption {
-    position: absolute;
-    /* right: 50%; */
-    top: 50%;
-    left: 50%;
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
-    color: #fff;
-    text-align: center;
-    transform: translate(-50%,-50%);
-    width: 80%;
+#post{
+    background-color: blueviolet;
 }
-#mycarousel .carousel-caption h1{
-    font-size: 85px;
+body{
+    overflow-y: scroll;
 }
